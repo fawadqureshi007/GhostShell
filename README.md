@@ -499,6 +499,8 @@ NOT VISIBLE IN SIEM
 
  ## Repository Structure
 
+ 
+
 ```
 GhostShell/
 ├── README.md
@@ -509,3 +511,7 @@ GhostShell/
 ├── step5-pcap-filtered.png
 └── kibana-response.png
 ```
+
+
+
+Everything will be possible
